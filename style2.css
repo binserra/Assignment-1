@@ -1,0 +1,51 @@
+.flex-container{
+    display: flex;
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    color: black;
+    font-family:Cambria;
+    text-align: center;
+    font: bold;
+    font-size: 75px;
+    padding: 30px;    
+    }
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    background-color: darkgray;
+    color: black;
+    text-transform: capitalize;
+  }
+
+.link{
+    display: inline-block;
+    background-color: grey;
+    color: black;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: black;
+    background-color: gray;
+    font-weight: bolder;
+}
+
+img.owen{
+    border-radius: 25%;
+    border: solid black; 
+    max-height: 250px;
+    display: block;    
+}
+
+body{
+    background-color: black; color:antiquewhite; text-align: center; 
+}
